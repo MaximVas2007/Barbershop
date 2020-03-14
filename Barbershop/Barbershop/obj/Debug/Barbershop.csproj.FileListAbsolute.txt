@@ -1,0 +1,6 @@
+C:\Users\Maksim\Desktop\Programming\hw9\Barbershop\Barbershop\Barbershop\bin\Debug\Barbershop.exe.config
+C:\Users\Maksim\Desktop\Programming\hw9\Barbershop\Barbershop\Barbershop\bin\Debug\Barbershop.exe
+C:\Users\Maksim\Desktop\Programming\hw9\Barbershop\Barbershop\Barbershop\bin\Debug\Barbershop.pdb
+C:\Users\Maksim\Desktop\Programming\hw9\Barbershop\Barbershop\Barbershop\obj\Debug\Barbershop.csprojAssemblyReference.cache
+C:\Users\Maksim\Desktop\Programming\hw9\Barbershop\Barbershop\Barbershop\obj\Debug\Barbershop.exe
+C:\Users\Maksim\Desktop\Programming\hw9\Barbershop\Barbershop\Barbershop\obj\Debug\Barbershop.pdb
